@@ -52,4 +52,6 @@ Bike-sharing demand is heavily influenced by weather conditions, with temperatur
 *   **Promotional Strategies:** Targeted promotions could be used to incentivize usage during periods of lower demand (e.g., discounts on cloudy days or during winter).
 *   **Infrastructure Planning:** Investments in infrastructure that provides some weather protection (e.g., covered bike stations) could help mitigate the negative impact of adverse weather.
 
-Let me know if you'd like a more detailed analysis or have any other questions!
+## Contact
+Created by [@nitishnarayanan002] - feel free to contact me!
+
